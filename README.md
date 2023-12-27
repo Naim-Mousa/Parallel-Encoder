@@ -19,7 +19,7 @@ This project is an implementation of Run-Length Encoding (RLE), a simple form of
 
 ## Installation
 1. **Clone the Repository**:
-`git clone https://github.com/yourusername/Parallel-Encoder.git`
+`git clone https://github.com/Naim-Mousa/Parallel-Encoder.git`
 2. **Navigate to the Directory**:
 `cd Parallel-Encoder`
 3. **Compile the Program**:
