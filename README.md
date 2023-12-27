@@ -4,9 +4,6 @@
 This project is an implementation of Run-Length Encoding (RLE), a simple form of lossless data compression, with support for multithreading. The encoder can process large files efficiently by dividing the workload across multiple threads, significantly speeding up the encoding process.
 
 ## Features
-
-
-## Features
 - **Run-Length Encoding**: Efficiently encodes files using the RLE algorithm.
 - **Multithreading Support**: Leverages multiple threads to accelerate the encoding process.
 - **Memory Mapping**: Utilizes memory mapping for efficient file processing.
